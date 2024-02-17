@@ -8,7 +8,7 @@ This Python script predicts genders from Instagram profile pictures. It leverage
 Clone this repo and install dependencies and run the script:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/iggsev/Instagram-Profile-Gender-Prediction.git
 cd <repository-directory>
 pip install -r requirements.txt
 python gender_prediction.py
